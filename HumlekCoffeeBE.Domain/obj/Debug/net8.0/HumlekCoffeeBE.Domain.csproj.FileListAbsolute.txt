@@ -1,0 +1,15 @@
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\bin\Debug\net8.0\HumlekCoffeeBE.Domain.deps.json
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\bin\Debug\net8.0\HumlekCoffeeBE.Domain.dll
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\bin\Debug\net8.0\HumlekCoffeeBE.Domain.pdb
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\bin\Debug\net8.0\HumlekCoffeeBE.Base.dll
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\bin\Debug\net8.0\HumlekCoffeeBE.Base.pdb
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\obj\Debug\net8.0\HumlekCoffeeBE.Domain.csproj.AssemblyReference.cache
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\obj\Debug\net8.0\HumlekCoffeeBE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\obj\Debug\net8.0\HumlekCoffeeBE.Domain.AssemblyInfoInputs.cache
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\obj\Debug\net8.0\HumlekCoffeeBE.Domain.AssemblyInfo.cs
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\obj\Debug\net8.0\HumlekCoffeeBE.Domain.csproj.CoreCompileInputs.cache
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\obj\Debug\net8.0\HumlekCo.7911CED2.Up2Date
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\obj\Debug\net8.0\HumlekCoffeeBE.Domain.dll
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\obj\Debug\net8.0\refint\HumlekCoffeeBE.Domain.dll
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\obj\Debug\net8.0\HumlekCoffeeBE.Domain.pdb
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Domain\obj\Debug\net8.0\ref\HumlekCoffeeBE.Domain.dll

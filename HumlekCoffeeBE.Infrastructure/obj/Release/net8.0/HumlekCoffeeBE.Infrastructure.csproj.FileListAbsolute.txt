@@ -1,0 +1,17 @@
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\bin\Release\net8.0\HumlekCoffeeBE.Infrastructure.deps.json
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\bin\Release\net8.0\HumlekCoffeeBE.Infrastructure.dll
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\bin\Release\net8.0\HumlekCoffeeBE.Infrastructure.pdb
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\bin\Release\net8.0\HumlekCoffeeBE.Base.dll
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\bin\Release\net8.0\HumlekCoffeeBE.Domain.dll
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\bin\Release\net8.0\HumlekCoffeeBE.Domain.pdb
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\bin\Release\net8.0\HumlekCoffeeBE.Base.pdb
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\obj\Release\net8.0\HumlekCoffeeBE.Infrastructure.csproj.AssemblyReference.cache
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\obj\Release\net8.0\HumlekCoffeeBE.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\obj\Release\net8.0\HumlekCoffeeBE.Infrastructure.AssemblyInfoInputs.cache
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\obj\Release\net8.0\HumlekCoffeeBE.Infrastructure.AssemblyInfo.cs
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\obj\Release\net8.0\HumlekCoffeeBE.Infrastructure.csproj.CoreCompileInputs.cache
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\obj\Release\net8.0\HumlekCo.9EC8A4BB.Up2Date
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\obj\Release\net8.0\HumlekCoffeeBE.Infrastructure.dll
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\obj\Release\net8.0\refint\HumlekCoffeeBE.Infrastructure.dll
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\obj\Release\net8.0\HumlekCoffeeBE.Infrastructure.pdb
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Infrastructure\obj\Release\net8.0\ref\HumlekCoffeeBE.Infrastructure.dll

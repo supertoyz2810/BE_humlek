@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "HumlekCoffeeBE.Controllers.GoogleAuthController",
+    "Method": "Login",
+    "RelativePath": "api/GoogleAuth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HumlekCoffeeBE.Application.Model.Respuest.User.UserLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HumlekCoffeeBE.Controllers.GoogleAuthController",
+    "Method": "LoginWithGoogle",
+    "RelativePath": "api/GoogleAuth/login-google",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HumlekCoffeeBE.Application.Model.Respuest.User.UserLoginWithGoogleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HumlekCoffeeBE.Controllers.UsersController",
+    "Method": "UserInfo",
+    "RelativePath": "api/Users/user-info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

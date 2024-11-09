@@ -1,0 +1,12 @@
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Base\bin\Debug\net8.0\HumlekCoffeeBE.Base.deps.json
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Base\bin\Debug\net8.0\HumlekCoffeeBE.Base.dll
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Base\bin\Debug\net8.0\HumlekCoffeeBE.Base.pdb
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Base\obj\Debug\net8.0\HumlekCoffeeBE.Base.csproj.AssemblyReference.cache
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Base\obj\Debug\net8.0\HumlekCoffeeBE.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Base\obj\Debug\net8.0\HumlekCoffeeBE.Base.AssemblyInfoInputs.cache
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Base\obj\Debug\net8.0\HumlekCoffeeBE.Base.AssemblyInfo.cs
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Base\obj\Debug\net8.0\HumlekCoffeeBE.Base.csproj.CoreCompileInputs.cache
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Base\obj\Debug\net8.0\HumlekCoffeeBE.Base.dll
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Base\obj\Debug\net8.0\refint\HumlekCoffeeBE.Base.dll
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Base\obj\Debug\net8.0\HumlekCoffeeBE.Base.pdb
+D:\HaoCN\.NetCore\Project\HumlekCoffeeBE\HumlekCoffeeBE.Base\obj\Debug\net8.0\ref\HumlekCoffeeBE.Base.dll
